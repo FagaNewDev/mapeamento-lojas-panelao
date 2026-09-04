@@ -1,5 +1,5 @@
 {
-  "name": "mapeamento-lojas-panelao",
+  "name": "mapeamento-lojas",
   "version": "1.0.0",
   "type": "module",
   "scripts": {
@@ -9,8 +9,7 @@
   },
   "dependencies": {
     "react": "^18.2.0",
-    "react-dom": "^18.2.0",
-    "firebase": "^10.7.0"
+    "react-dom": "^18.2.0"
   },
   "devDependencies": {
     "@vitejs/plugin-react": "^4.2.0",
